@@ -3,7 +3,7 @@
 ## Run
 
 ### Remotely (via GitHub)
-This assumes you have this folder in GitHub. We will need to change `index.html` file on line 13, cited above, as this:
+This assumes you have this folder in GitHub. We will need to change `index.html` file on line 13, as this:
 ```js
 await cheerpjRunJar("/app/cheerpj-osp_ode/osp_ode_examples.jar");
 ```
